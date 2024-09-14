@@ -1,6 +1,5 @@
 <div align="center">
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedVall09&custom_title=Mohamed%20Vall%20GitHub%20Activity%20Graph&hide_border=true&border_radius=true&bg_color=20232a&color=61dafb&line=61dafb&point=61dafb&area_color=61dafb&title_color=61dafb&area=true" alt="GitHub Activity Graph" />
-  <br/>
   <table border=0>
     <tr>
       <td>
